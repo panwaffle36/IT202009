@@ -1,5 +1,5 @@
 # IT202
-## Alec
+## Alec Garbely
 
 My first repository
 My first edit
